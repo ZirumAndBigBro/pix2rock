@@ -12,5 +12,5 @@ for integration in \AC-Game\data\static_data\spawns\Npcs\New\location.xml file.
 
 Maze:
 if you need an random and correct maze, use maze.py.
-Width and height for your maze you can change in line 99 in maze.py
+Width and height for your maze you can change in line 99 in maze.py.
 As result you wil get result.bmp
