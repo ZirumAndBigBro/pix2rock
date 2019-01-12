@@ -16,3 +16,7 @@ Width and height for your maze you can change in line 99 in maze.py.
 As result you will get result.bmp
 
 See Example_pix2rock.jpg
+
+and Youtube
+
+https://youtu.be/7Y24vIwrLIQ
